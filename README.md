@@ -163,3 +163,4 @@ real-estate-tokenization-platform/
 - **Insurance Integration** - Automated property insurance
 - **Mortgage Tokenization** - Fractional mortgage lending
 - **Global Expansion** - Support for international properties
+<img width="1470" height="956" alt="Screenshot 2025-11-05 at 12 50 34 AM" src="https://github.com/user-attachments/assets/09ed663e-8c50-4b15-ac6e-3eff3af30ea4" />
